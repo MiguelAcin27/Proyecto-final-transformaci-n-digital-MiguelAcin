@@ -10,9 +10,9 @@ Este repositorio contiene la solución tecnológica completa desarrollada para l
 ## 🚀 1. Entregables Incluidos
 
 * **Código Fuente:** Implementación completa del patrón arquitectónico **MVC**.
-* **Documento de Auditoría:** Disponible en la carpeta `/documentos/Documento_Auditoria.pdf` (Análisis previo de la pyme).
-* **Presentación Final:** Disponible en la carpeta `/documentos/Presentacion_Final.pptx` (Diapositivas de la defensa).
-* **Vídeo Demo Obligatorio:** 🍿 [Haz clic aquí para ver la demostración del sistema (Enlace a Drive/YouTube)](#) **
+* **Documento de Auditoría:** Disponible en la carpeta `/documentos/Documento_Auditoria.pdf`.
+* **Presentación Final:** Disponible en la carpeta `/documentos.
+* **Vídeo Demo Obligatorio:** 🍿 **
 
 ---
 
