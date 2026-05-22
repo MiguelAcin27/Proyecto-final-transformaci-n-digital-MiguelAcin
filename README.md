@@ -29,11 +29,8 @@ El sistema sigue un patrón de diseño **Modelo-Vista-Controlador (MVC)** para g
 ## ⚙️ 3. Instrucciones de Instalación y Uso
 
 ### Paso 1: Clonar el repositorio
-```bash
+```bash.
 
----
 
-## Paso 4. Instalar dependencias
-python -m pip install flask mysql-connector-python
 git clone [https://github.com/TU_USUARIO/Proyecto-Kit-Digital-Modas-Ejea.git](https://github.com/TU_USUARIO/Proyecto-Kit-Digital-Modas-Ejea.git)
 cd Proyecto-Kit-Digital-Modas-Ejea
